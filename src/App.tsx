@@ -9,7 +9,7 @@ function App() {
         </a>
       </div>
       <h1>Lucas Korz - Portfólio - 2024</h1>
-      <div className="card">Em breve...</div>
+      <div className="card">Em breve... ...</div>
     </>
   );
 }
